@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MySoportePractico</string>
+    <string name="Palabras">Hola Mundo</string>
+    <string name="Palabras1">Amor</string>
+    <string name="Palabras2">Comer</string>
+    <string name="Palabras3">Dormir</string>
+    <string name="Palabras4">Leer</string>
+    <string name="Palabras5">Pensar</string>
+    <string name="Palabras6">Vivir</string>
+    <string name="Palabras7">Desear</string>
+    <string name="Palabras8">Querer</string>
+    <string name="Palabras9">Soñar</string>
+    <string name="Palabras10">Por siempre</string>
+</resources>
